@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&family=Crimson+Text&family=Lato&family=Orbitron&display=swap');
+  p{
+    font-family: 'Crimson Text', serif;
+    font-family: 'Lato', sans-serif;
+
+  }
+
+section {
+    padding: 60px 0;
+}
+
+i {
+    font-family: sans-serif;
+}
+
+a {
+    font-family: 'Crimson Text', serif;
+    font-family: 'Lato', sans-serif;
+    
+}
